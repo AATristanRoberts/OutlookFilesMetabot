@@ -1,4 +1,4 @@
-# Outllok Files Metabot
+# Outlook Files Metabot
 _A metabot for working with Outlook MSG / EML files in Automation Anywhere._
 
 ## Features
