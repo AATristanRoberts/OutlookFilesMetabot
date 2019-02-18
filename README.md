@@ -8,4 +8,4 @@ _A metabot for working with Outlook MSG / EML files in Automation Anywhere._
 
 See the example TaskBot for how to use each property.
 
-Built using Visual Studio 2017.
+Built using Visual Studio 2017 and Automation Anywhere v10.7 (not yet tested in v11).
